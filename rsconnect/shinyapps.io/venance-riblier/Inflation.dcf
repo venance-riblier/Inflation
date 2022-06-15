@@ -1,0 +1,13 @@
+name: Inflation
+title: Inflation
+username:
+account: venance-riblier
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5119188
+bundleId: 6011779
+url: https://venance-riblier.shinyapps.io/Inflation/
+when: 1655327741.88719
+lastSyncTime: 1655327741.88719
+asMultiple: FALSE
+asStatic: FALSE
